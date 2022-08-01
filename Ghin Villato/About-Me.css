@@ -1,0 +1,59 @@
+ .u-section-1 {
+  background-image: url("images/ghin1.jpeg");
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 1209px;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 6rem;
+  font-weight: 700;
+  margin: 362px 229px 0 auto;
+}
+
+.u-section-1 .u-text-2 {
+  margin: 25px -29px 13px 266px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1273px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 166px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1337px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 0;
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1530px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 172px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1873px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 3rem;
+    margin-right: 108px;
+  }
+}
